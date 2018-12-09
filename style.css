@@ -3,13 +3,19 @@ body {
 }
 
 h1{
-    color: wheat;
+    color: white;
     text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+
 }
 
 h3{
     color: white;
-    text-align: left;
+    text-align: center;
 
 }
 
